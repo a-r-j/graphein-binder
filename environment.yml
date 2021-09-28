@@ -1,18 +1,27 @@
 name: graphein
 channels:
+- pytorch
+- pytorch3d
+- dglteam
 - conda-forge
 - anaconda
 - bioconda
+- fvcore
+- iopath
 - plotly
 - schrodinger
 - salilab
+- rusty1s
 dependencies:
 - python=3.8
 - biopython
 - biopandas
 - conda
+- dgl
 - dssp
+- fvcore
 - ipympl
+- iopath
 - mamba
 - matplotlib
 - anaconda::multipledispatch
@@ -30,6 +39,11 @@ dependencies:
 - scikit-learn
 - scipy
 - tqdm
+- torch
+- pytorch3d
+- pytorch-geometric
+- pytorch-lightning
+- torchvision
 - versioneer
 - python-wget
 - xarray
