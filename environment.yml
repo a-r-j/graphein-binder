@@ -49,7 +49,6 @@ dependencies:
 - xarray
 - pip:
   - nbgitpuller
-  - bioservices==1.8.0
   - biovec
   - propy3
   - pyaaisc
