@@ -39,7 +39,7 @@ dependencies:
 - scikit-learn
 - scipy
 - tqdm
-- torch
+- pytorch
 - pytorch3d
 - pytorch-geometric
 - pytorch-lightning
