@@ -49,8 +49,8 @@ dependencies:
 - xarray
 - pip:
   - nbgitpuller
+  - suds-community
   - biovec
   - propy3
   - pyaaisc
   - graphein
-
