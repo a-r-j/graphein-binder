@@ -17,6 +17,7 @@ dependencies:
 - setuptools<58.04
 - biopython
 - biopandas
+- bioservices
 - conda
 - dgl
 - dssp
@@ -50,7 +51,6 @@ dependencies:
 - xarray
 - pip:
   - nbgitpuller
-  - suds-community
   - biovec
   - propy3
   - pyaaisc
