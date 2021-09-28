@@ -1,0 +1,1 @@
+https://mybinder.org/v2/gh/<your-username>/<your-environment-repo>/master?urlpath=git-pull?repo=<url-of-your-content-repo>
