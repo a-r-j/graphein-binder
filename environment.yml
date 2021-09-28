@@ -1,0 +1,43 @@
+name: graphein
+channels:
+- conda-forge
+- anaconda
+- bioconda
+- plotly
+- schrodinger
+- salilab
+dependencies:
+- python=3.8
+- biopython
+- biopandas
+- conda
+- dssp
+- ipympl
+- mamba
+- matplotlib
+- anaconda::multipledispatch
+- mypy
+- networkx
+- nodejs
+- numpy
+- pandas
+- pandoc
+- pip
+- plotly
+- pydantic
+- pymol
+- pyyaml
+- scikit-learn
+- scipy
+- tqdm
+- versioneer
+- python-wget
+- xarray
+- pip:
+  - nbgitpuller
+  - bioservices
+  - biovec
+  - propy3
+  - pyaaisc
+  - graphein
+
