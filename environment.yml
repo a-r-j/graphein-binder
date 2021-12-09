@@ -54,4 +54,4 @@ dependencies:
   - biovec
   - propy3
   - pyaaisc
-  - graphein
+  - graphein==1.0.9
